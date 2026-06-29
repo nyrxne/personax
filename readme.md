@@ -163,6 +163,6 @@ Where they can go next
 
 That makes it not just a form—but a personal growth system.
 
-# Author: Nyasa Singh
+Author: Nyasa Singh
 
 Developed as an advanced internship project focused on intelligent profiling, analytics, and self-development systems.
